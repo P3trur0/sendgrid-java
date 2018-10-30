@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [4.3.1] - 2018-10-11
+### Added
+- [PR #510](https://github.com/sendgrid/sendgrid-java/pull/449/files): Test release Chandler
+
 ## [4.3.0] - 2018-10-11
 ### Added
 - [PR #449](https://github.com/sendgrid/sendgrid-java/pull/449/files): Dynamic Templates support -- BIG thanks to [Marcus Vinícius](https://github.com/Markuus13)
